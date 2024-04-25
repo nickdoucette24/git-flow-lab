@@ -15,9 +15,9 @@ const poems = [
     image: "bee.jpeg",
   },
   {
-    author: "Nicky D",
-    poem: "Roses are red \n Violets are blue \n Smell my shoe",
-    image: "shoe.jpeg",
+    author: "Cee",
+    poem: "To the moon and back and I think you're whack.",
+    image: "moon.jpg",
   },
 ];
 
